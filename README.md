@@ -15,9 +15,9 @@ The technique contain alpha-beta-pruning, iterative deepening search, bitboard, 
 
   > python layla_ver1.1.py
   
-## Result
+## ScreenShot
 
-![Scree](https://github.com/tony85212/SAT-Based-Short-Synchronizing-Words/blob/master/screenshot/3.JPG)
+![Scree](https://github.com/tony85212/Chinese-Chess-Al/blob/main/screenshot.JPG)
 
 ## Reference
 
