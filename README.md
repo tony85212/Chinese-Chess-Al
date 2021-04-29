@@ -1,1 +1,1 @@
-# Chinese-Chess-Aplph-beta-pruing
+# Chinese-Chess-AI
